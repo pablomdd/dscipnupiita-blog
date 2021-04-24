@@ -5,13 +5,13 @@ description: Entra al archivo para ver el código.
 tag: presentaciones
 author: Team DSC IPN - UPIITA
 ---
-# Hola soy luis otra vez
+# Hola soy yo otra vez
 
 Hola, somos el DSC IPN - UPIITA. 
 
 En esta parte dinos:
 
-- Carrera
-- Semestre 👀
-- Qué te apassssiona
-- Lenguaje de programación favorito
+- Carrera: Mecatrónica
+- Semestre 👀: noveno
+- Qué te apassssiona: Compartir lo que se a otras personas
+- Lenguaje de programación favorito: JavaScript
