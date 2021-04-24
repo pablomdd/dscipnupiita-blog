@@ -1,9 +1,9 @@
 ---
-title: Plantilla para presentación
+title: Hola como estas?, soy luis
 date: 2021/3/19
-description: Entra al archivo para ver el código.
+description: Esta es otra prueba para el post
 tag: presentaciones
-author: Team DSC IPN - UPIITA
+author: Luis E
 ---
 # Hola soy yo otra vez
 
