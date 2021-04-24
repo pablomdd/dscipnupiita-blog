@@ -1,5 +1,5 @@
 ---
-title: @Pablo Domínguez Durán
+title: Pablo Domínguez Durán
 date: 2021/4/23
 description: La presentación de @pablo_mdd.
 tag: introductions, dsc
