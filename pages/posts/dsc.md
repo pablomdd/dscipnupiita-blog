@@ -3,7 +3,7 @@ title: Plantilla para presentación
 date: 2021/3/19
 description: Entra al archivo para ver el código.
 tag: presentaciones
-author: @pablomdd
+author: Team DSC IPN - UPIITA
 ---
 # DSC IPN - UPIITA
 
