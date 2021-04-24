@@ -1,9 +1,9 @@
 ---
-title: @Pablo Domínguez Durán
+title: Pablo Domínguez Durán
 date: 2021/4/23
 description: La presentación de @pablo_mdd.
-tag: introductions, dsc
-author: You
+tag: introductions
+author: Pablo
 ---
 # @Pablo_MDD
 
@@ -25,7 +25,6 @@ Some of the things I've been doing recently:
 - 📫 How to reach me: <a href="https://twitter.com/Pablo_MDD">Tweet me</a>. Bonus points if you'd like to chat in Portuguese or French.
 - 😄 Pronouns: He/Him
 - 💡 Fun fact: My profile pic was [generated with AI from a project I contributed to on the MLH Fellowship](https://github.com/MLH-Fellowship/neuro-art) using the style of [Claude Monet](https://www.wikiart.org/es/claude-monet).
-<p style="text-align:center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablomdd&show_icons=true" alt="pablomdd stats" /></p>
 
 ## Social Links:
 - <a href="https://twitter.com/Pablo_MDD">Twitter</a>
