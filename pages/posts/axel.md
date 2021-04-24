@@ -1,11 +1,11 @@
 ---
-title: Pablo Domínguez Durán
+title: Axel Emmanuel 
 date: 2021/4/23
-description: La presentación de @pablo_mdd.
+description: La presentación Axel
 tag: introductions
-author: Pablo
+author: Axel 
 ---
-
+# HOLA BB
 <p align="center">Soy un estudiante de mecatronica de Upiita y formo parte de el DSC</p>
 
 Me gusta:
