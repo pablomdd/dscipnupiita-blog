@@ -5,7 +5,7 @@ description: Entra al archivo para ver el código.
 tag: presentaciones
 author: Team DSC IPN - UPIITA
 ---
-# Hola soy luis otra vez
+# DSC IPN - UPIITA
 
 Hola, somos el DSC IPN - UPIITA. 
 
