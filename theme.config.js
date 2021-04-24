@@ -1,9 +1,9 @@
-const YEAR = new Date().getFullYear()
+// const YEAR = new Date().getFullYear()
 
 export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{YEAR}</time> © Your Name.
+      Hecho con 💓por Team DSC IPN - UPIITA
       <a href="/feed.xml">RSS</a>
       <style jsx>{`
         a {
