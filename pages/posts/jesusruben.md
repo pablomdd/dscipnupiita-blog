@@ -1,10 +1,10 @@
-title: Plantilla para presentación
-date: 2021/3/19
-description: Entra al archivo para ver el código.
+title: Aprendiendo Git
+date: 2021/4/28
+description: Prueba para el post.
 tag: presentaciones
-author: Team DSC IPN - UPIITA
+author: Jesus Ruben
 ---
-# Aprendiendo a programar
+# DSC IPN - UPIITA
 
 Hola, somos el DSC IPN - UPIITA. 
 
